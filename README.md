@@ -15,4 +15,4 @@ Developers who create beneficial social values
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeounghyun48@gmail.com)](jeounghyun48@gmail@gmail.com)
 
-I currently focus on studying data analysis, machine learning. Difficult, but interesting!!
+🧩 I currently focus on studying data analysis, machine learning. It's a few pieces of puzzle right now, but i'm going to continue to fill the whole puzzle. 
